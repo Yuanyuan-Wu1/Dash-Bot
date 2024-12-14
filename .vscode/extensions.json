@@ -1,0 +1,13 @@
+{
+    "recommendations": [
+        "gabrielbb.vscode-lombok",
+        "vscjava.vscode-java-pack",
+        "eamodio.gitlens",
+        "vscjava.vscode-gradle",
+        "ms-vsliveshare.vsliveshare-pack",
+        "jebbs.plantuml",
+        "madhavd1.javadoc-tools",
+        "github.vscode-pull-request-github",
+        "ryanluker.vscode-coverage-gutters"
+    ]
+}
